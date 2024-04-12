@@ -15,7 +15,7 @@ A lightweight web interface to manage emails sent through [LocalStack SES](https
 ## Usage
 
 1. **Clone and Install:**
-   - Clone the repository: `git clone https://github.com/veertech/localstack-aws-ses-email-viewer.git`
+   - Clone the repository: `git clone https://github.com/frnmagalhaes/localstack-aws-ses-email-viewer.git`
    - Navigate to the project directory: `cd localstack-aws-ses-email-viewer`
    - Install dependencies: `npm install`
 
